@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "archieml": "0.1.x"
+    "archieml": "0.3.x"
   }
 }
